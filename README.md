@@ -5,6 +5,7 @@
 - 💼 My Projects are available at : [Portfolio](https://saket-portfolio-rxpt-saket0197.vercel.app/)
 - 📝 I Write Articles at : [Hashnode](https://saket-sharma.hashnode.dev/)
 - 🔭 I’m currently working on MERN Stack
+- I'm currently learning AWS
 
 ### Stats
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saket0197&layout=donut&hide=ejs&theme=blueberry)
